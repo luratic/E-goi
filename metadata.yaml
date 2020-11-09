@@ -1,3 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/e-goi/"
 versions:
   - sha: 4de8f79775f91217b7749bc1bfb93d3378efe296
     changeNotes: Initial release.
