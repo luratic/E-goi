@@ -404,6 +404,10 @@ scenarios: []
 
 ___NOTES___
 
-Developed with ❤ in IM by his technical team: Alfonso, Txema and Brais
-
+Developed with ❤ by: Alfonso, Txema and Brais.
+Web: www.luratic.com
+Linkedin: 
+https://www.linkedin.com/in/braiscalvo/
+https://www.linkedin.com/in/alfonsorc/
+https://www.linkedin.com/in/txema-s%C3%A1nchez-a48482ba/
 
