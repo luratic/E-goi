@@ -1,5 +1,9 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/e-goi/"
 versions:
+  # Latest version
+  - sha: a18362e3aa1388c32021c496af87a7815b7f2aca
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: 4de8f79775f91217b7749bc1bfb93d3378efe296
     changeNotes: Initial release.
